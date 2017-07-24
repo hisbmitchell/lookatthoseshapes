@@ -1,7 +1,7 @@
 
 
 function preload(){
-  bg1 = createVideo (['assets/green1.mp4']);
+  bg1 = createVideo (['assets/green2.mov']);
   gif = loadGif('assets/shapers3.gif')
 
  wholething = loadSound('assets/wholething.wav')
